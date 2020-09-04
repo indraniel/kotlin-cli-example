@@ -21,5 +21,13 @@ $ java -jar build/libs/kotlin-cli-example.jar
 Hello World!
 ```
 
+# Other Useful References
+
+* [How to create the far jar with gradle kotlin script][2]
+* https://github.com/wadejensen/kotlin-fat-jar-example
+* [Building an all-in-one Jar in Gradle with the Kotlin DSL][3]
+
 [0]: https://medium.com/@deepak_v/kotlin-beginner-to-advance-build-real-command-line-tool-using-kotlinx-cli-608bbc6d9a3
 [1]: https://ajalt.github.io/clikt/quickstart
+[2]: https://stackoverflow.com/questions/41794914/how-to-create-the-fat-jar-with-gradle-kotlin-script
+[3]: https://www.artificialworlds.net/blog/2019/07/12/building-an-all-in-one-jar-in-gradle-with-the-kotlin-dsl/
